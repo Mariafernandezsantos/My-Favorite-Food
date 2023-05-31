@@ -1,0 +1,64 @@
+body {
+width: 750px;
+height: 450px;
+padding: 3%;
+}
+
+header {
+    width: 800px;
+    height: 80px;
+    border: 2px solid #000000;
+    }
+
+.elaboracion {
+    height: 800px;
+    margin-left: 80px;
+    margin-top: 100px;
+    border: 1px solid #000000;
+    }
+
+.ingredientes {
+    width: 250px;
+    border: 1px solid #000000;
+    margin-bottom: 50px;
+}
+
+.tiempo {
+width: 194px;
+margin-top: 50px;
+border: 1px solid #000000;
+border-radius: 20px;
+display: block;
+margin-left: 70%;
+margin-right: 50%;
+text-align: center;
+}
+
+.img {
+    display: block;
+    width: 100%;   
+    margin-top: 37px;
+    
+}
+
+h1 {
+    position: absolute;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    color: #000000;
+}
+
+li {
+text-align: left;
+}
+
+footer {
+    width: 750px;
+    height: 50px;
+    border: 2px solid #000000;
+    margin-top: 50px;
+}
+
